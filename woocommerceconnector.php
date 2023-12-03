@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WooCommerce Product Connector
+Plugin Name: WooCommerce Connector
 Description: Connects to another WooCommerce site and retrieves product information.
 Version: 1.0
 Author: Huy Nguyen
